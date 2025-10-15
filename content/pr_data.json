@@ -1,5 +1,21 @@
 [
   {
+    "id": 2916800565,
+    "number": 134,
+    "title": "Create README.md",
+    "state": "closed",
+    "user": {
+      "login": "siddhrrth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238174082?v=4"
+    },
+    "created_at": "2025-10-15T10:45:44Z",
+    "merged_at": "2025-10-15T10:45:53Z",
+    "body": null,
+    "labels": [],
+    "html_url": "https://github.com/Iron-56/First-issue/pull/134",
+    "readme_content": "Nice try gang"
+  },
+  {
     "id": 2916785536,
     "number": 133,
     "title": "yaksh",
@@ -462,21 +478,5 @@
     "labels": [],
     "html_url": "https://github.com/Iron-56/First-issue/pull/105",
     "readme_content": "#My First Pull Request!!!!\nYaaayyy I Had a lot of fun in the hacktober thingy...\ndefo suggested\n\n#What we learnt\nwe learnt git gihub all stufff"
-  },
-  {
-    "id": 2916682465,
-    "number": 104,
-    "title": "MOGGED",
-    "state": "closed",
-    "user": {
-      "login": "HARiGOViND-7",
-      "avatar_url": "https://avatars.githubusercontent.com/u/221264677?v=4"
-    },
-    "created_at": "2025-10-15T10:13:16Z",
-    "merged_at": "2025-10-15T10:13:27Z",
-    "body": null,
-    "labels": [],
-    "html_url": "https://github.com/Iron-56/First-issue/pull/104",
-    "readme_content": "Helloo AMAN mogged Aadith just now!!\nHe's a PRO Mogger.."
   }
 ]
